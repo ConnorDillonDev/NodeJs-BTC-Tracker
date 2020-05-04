@@ -42,7 +42,6 @@ function historicalGraph(history) {
         s0[i] = histPrices[i];
 
     //compare price to previous days (<) ? red:green
-    console.log(priceNow, histPrices[histPrices.length-1])
     if (priceNow < histPrices[histPrices.length-1]) {
         var config = {
             height:[
