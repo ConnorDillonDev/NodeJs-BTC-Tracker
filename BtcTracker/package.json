@@ -1,0 +1,22 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "optimist": "^0.6.1"
+  },
+  "dependencies": {
+    "asciichart": "^1.5.17",
+    "node-fetch": "^2.6.0",
+    "request": "^2.81.0",
+    "simple-get": "^3.1.0",
+    "superagent": "^3.8.3"
+  }
+}

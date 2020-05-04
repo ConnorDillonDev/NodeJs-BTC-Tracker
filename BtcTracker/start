@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+node main.js
+while true;
+do
+	sleep 5m
+	node main.js
+done
+
+
